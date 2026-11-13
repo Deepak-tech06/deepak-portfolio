@@ -27,7 +27,6 @@
 ---
  
 <a id="premise"></a>
- 
 ## 🍿 The Premise
  
 Most portfolios are a scroll of cards. This one is a **series**.
@@ -47,7 +46,6 @@ The goal is simple: be remembered, and let a recruiter, a developer or a client 
 ---
  
 <a id="profiles"></a>
- 
 ## 👥 Who's Watching?
  
 The same content, four different cuts. Each profile **reorders the sections** so every visitor sees what matters to them first.
@@ -64,7 +62,6 @@ You can switch profiles at any time from the navbar. Press `Esc` on the selector
 ---
  
 <a id="features"></a>
- 
 ## ✨ Features
  
 **🎬 Cinematic experience**
@@ -82,7 +79,6 @@ You can switch profiles at any time from the navbar. Press `Esc` on the selector
 ---
  
 <a id="originals"></a>
- 
 ## 🎞️ The Originals (Featured Work)
  
 | Project | What it does | Stack | Source |
@@ -96,7 +92,6 @@ You can switch profiles at any time from the navbar. Press `Esc` on the selector
 ---
  
 <a id="architecture"></a>
- 
 ## 🏗️ Architecture
  
 ```mermaid
@@ -160,7 +155,6 @@ deepak-portfolio/
 ---
  
 <a id="run-locally"></a>
- 
 ## 🚀 Run It Locally
  
 **Prerequisites:** Node.js (current LTS) and npm.
@@ -186,7 +180,6 @@ Open the URL Vite prints (usually `http://localhost:5173`).
 ---
  
 <a id="about"></a>
- 
 ## 👨‍💻 About Me
  
 I'm **Deepak B V**, a BCA graduate (RNS First Grade College, 2023–2026) from **Bengaluru, India**. I build responsive web apps with React, TypeScript, Node.js and PostgreSQL, and connect them to REST APIs and Python-based AI services.
@@ -223,7 +216,6 @@ I designed the branding for the **AAROHI Fest**: posters, brochures, certificate
 ---
  
 <a id="contact"></a>
- 
 ## 📬 Let's Connect
  
 I'm open to **internships, full-time roles and collaborations** around web development and AI-powered products.
